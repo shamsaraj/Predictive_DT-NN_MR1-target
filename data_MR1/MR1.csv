@@ -1,6 +1,8 @@
 name,cat1
 CID_14505-2-Furyl methyl ketone,0
+b_6-FP,1
 b_CID_3806-5-Hydroxy-1-4-naphthoquinone,1
+b_5-OH-Diclofenac,1
 b_CID_667490-Mercaptopurine,1
 CID_2662-Celecoxib,0
 b_CID_10637-1-2-Naphthoquinone-4-sulfonic acid,1
@@ -29,6 +31,7 @@ CID_5161-Salsalate,0
 CID_3342-Fenoprofen,0
 CID_6292-Methaqualone,0
 CID_5281894-7-Hydroxyflavone,0
+b_2-OH-1-naphthoquinone,1
 b_CID_5280443-Apigenin,1
 CID_2720-Chlorothiazide,0
 CID_6307-Quinethazone,0
@@ -39,6 +42,7 @@ CID_77553-3-Acetylcoumarin,0
 CID_5802-5-Bromouracil,0
 CID_3366-Flucytosine,0
 CID_3394-Flurbiprofen,0
+b_5-OP-RU,1
 CID_4756-Phenazopyridine,0
 CID_6082-Methoxamine,0
 b_CID_50942-Doxofylline,1
@@ -57,11 +61,13 @@ b_CID_122903-Dehydroacetic-acid,1
 CID_5560-Trichlormethiazide,0
 CID_3828-Khellin,0
 CID_3826-Ketorolac,0
+b_Tetrahydroxy-1-4-quinone-hydrate,1
 CID_3371-Flufenamic-acid,0
 CID_60825-Lamivudine,0
 CID_54676038-Dicumarol,0
 CID_5578-Trimethoprim,0
 b_CID_4044-Mefenamic-acid,1
+b_RL-6-Me-7-OH,1
 CID_4114-Methoxsalen,0
 CID_4993-Pyrimethamine,0
 b_CID_8530-1-4-Naphthoquinone,1
@@ -71,6 +77,7 @@ CID_4075-5-Aminosalicylic-acid,0
 CID_1047-2-Pyrazinecarboxylic-acid,0
 CID_3308-Etodolac,0
 CID_9444-Azacitidine,0
+b_5-OE-RU,1
 CID_6-Chloro-4-hydroxy-coumarine,0
 b_CID_8536-Menadione sodium bisulfite,1
 CID_5546-Triamterene,0
