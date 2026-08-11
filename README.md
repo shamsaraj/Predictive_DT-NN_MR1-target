@@ -16,14 +16,17 @@ mlmolprop` from that repo), RDKit, scikit-learn, LIME.
 
 ## Data
 
-`data_MR1/` has the training set (`all.sdf`, 69 compounds) and external
+`data_MR1/` has the training set (`all.sdf`, 71 compounds) and external
 test set (`ex_test.sdf`, 18 compounds), with binder/non-binder labels in
 `MR1.csv`. Structures and labels are reconstructed from the paper's
-supplementary table via PubChem lookup (by CID where listed, by name
-otherwise, e.g. `6-FP` → 6-formylpterin, `5-OP-RU` →
-5-(2-oxopropylideneamino)-6-D-ribitylaminouracil). 3 of the original 90
-compounds (`DA-6-FP`, `2-AC-6-FP`, `HMB`) don't resolve to a PubChem
-entry under any name we tried, so they're not included here.
+supplementary table: by PubChem CID where listed, by PubChem name lookup
+otherwise (e.g. `6-FP` → 6-formylpterin, `5-OP-RU` →
+5-(2-oxopropylideneamino)-6-D-ribitylaminouracil), and for `DA-6-FP` /
+`2-AC-6-FP` (Ac-6-FP) from their bound-ligand structures in the RCSB PDB
+(entries [5U17](https://www.rcsb.org/structure/5U17) and
+[4PJ5](https://www.rcsb.org/structure/4PJ5), ligand codes `7WP`/`30W`).
+`HMB` (1 of the original 90 compounds) doesn't resolve to a confirmed
+structure under any name tried, so it's not included.
 
 `Supplementary material.xlsx` is the paper's original supplementary
 table (observed/predicted classes, full descriptor table, descriptor
