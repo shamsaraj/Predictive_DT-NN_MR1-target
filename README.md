@@ -7,6 +7,18 @@ binders, for:
 of the phenol and carbonyl fragments**
 https://www.sciencedirect.com/science/article/abs/pii/S0022286020307845?via%3Dihub
 
+```bibtex
+@article{shamsara2020mr1,
+  author  = {Shamsara, Jamal and Sch{\"u}{\"u}rmann, Gerrit},
+  title   = {A machine learning approach to discriminate {MR1} binders: The importance of the phenol and carbonyl fragments},
+  journal = {Journal of Molecular Structure},
+  year    = {2020},
+  volume  = {1217},
+  pages   = {128459},
+  doi     = {10.1016/j.molstruc.2020.128459}
+}
+```
+
 Built on [mlmolprop](https://github.com/shamsaraj/mlmolprop).
 
 ## Requirements
