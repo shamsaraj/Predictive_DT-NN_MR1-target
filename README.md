@@ -19,7 +19,9 @@ https://www.sciencedirect.com/science/article/abs/pii/S0022286020307845?via%3Dih
 }
 ```
 
-Built on [mlmolprop](https://github.com/shamsaraj/mlmolprop).
+Built on [mlmolprop](https://github.com/shamsaraj/mlmolprop) -- verified
+compatible with mlmolprop 1.1.0 (`MR1.ipynb` runs end-to-end with no
+errors).
 
 ## Requirements
 
